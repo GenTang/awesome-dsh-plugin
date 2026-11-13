@@ -1,0 +1,7 @@
+url: https://github.com/finogeeks/finsafe/tree/main/integrations/dsh/windows
+name: finogeeks/finsafe#finshield
+category: security
+description:
+  en: Provides sandbox protection for DeepSeek Harness on Windows to help safeguard local files and system resources during agent execution.
+  zh: 为Windows上的DeepSeek Harness提供沙箱防护，帮助保护代理运行期间的本机文件与系统资源安全。
+icon: https://raw.githubusercontent.com/finogeeks/finsafe/main/integrations/dsh/windows/assets/finshield.png
